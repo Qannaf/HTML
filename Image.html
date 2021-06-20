@@ -1,0 +1,42 @@
+
+<!-- les  listes-->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Ma page web pour les listes</title>
+</head>
+
+<body>
+    <h1>Image et figure</h1>
+
+    <img src="1.jpg" alt="Texte alternatif à l'image" width="200" height="auto" >
+    <br>
+
+    <figure>
+        <img src="1.jpg" alt="" width="200" height="auto">
+        <figcaption>mon certificat source: <a href="#">lien</a></figcaption>
+    </figure>
+    
+    <!---
+        shape = rect   -> x1,y1,x2,y2
+                circle -> x,y,r
+                poly   -> x1,y1,x2,y2, ... ,x10,y10
+    -->
+
+    <img usemap="#certificat" src="1.jpg" alt="mon certificat image" width="200" height="auto">
+    <map name="certificat">
+        <area href="2.png" shape="rect" coords="0,0,50,50">
+    </map>
+
+    <picture>
+        <source srcset="2.png" media="min-width: 600px">
+        <img src="3.jpg" alt="" >
+    </picture>
+
+</body>
+
+
+<!------------------------------------------------->
+</html>
