@@ -1,19 +1,19 @@
 # HTML
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-1024px-HTML5_logo_and_wordmark.svg.png)
-
+<p align="center">
+  <img width="350" height="197" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-1024px-HTML5_logo_and_wordmark.svg.png">
+</p>
 ### Table of Contents
 
-- [1. Formatage texte1](#what-is-latex)
-- [2. Formatage texte2](#why-use-latex)
-- [3. Formatage technique](#set-up-for-latex)
-- [4. Liste](#first-latex-file)
-- [5. Tableaux](#a-deeper-look)
-- [6. Formulaires1](#multilingual-usage)
-- [7. Formulaires1](#lists)
-- [8. Structurer page Web](#paragraph-and-section)
-- [9. Image](#making-a-table-of-contents)
-- [F10. Audio Védio](#footnotes)
-
+- [1. Formatage texte1](#1)
+- [2. Formatage texte2](#2)
+- [3. Formatage technique](#3)
+- [4. Liste](#4)
+- [5. Tableaux](#5)
+- [6. Formulaires1](#6)
+- [7. Formulaires1](#7)
+- [8. Structurer page Web](#8)
+- [F10. Audio Védio](#9)
+<a name="1"></a>
 ## 1. formatage texte1
 ``` 
 HTML
@@ -46,7 +46,7 @@ HTML
  
 ![alt text](images/1.PNG?raw=true "sortie de code")
 
-
+<a name="2"></a>
 ## 2. formatage texte2
 ``` HTML
 <!-- 2éme cours-->
@@ -117,7 +117,7 @@ HTML
 ![alt text](images/2.PNG?raw=true "sortie de code")
 
 
-
+<a name="3"></a>
 ## 3. formatage technique
 ```HTML
 
@@ -162,7 +162,7 @@ HTML
 ![alt text](images/3.PNG?raw=true "sortie de code")
 
 
-
+<a name="4"></a>
 ## 4. Liste
 ```HTML
 
@@ -227,7 +227,7 @@ HTML
  
 ![alt text](images/4.PNG?raw=true "sortie de code")
 
-
+<a name="5"></a>
 ## 5. Tableaux
 ```HTML
 
@@ -316,7 +316,7 @@ HTML
 ![alt text](images/5.PNG?raw=true "sortie de code")
 
 
-
+<a name="6"></a>
 ## 6. Formulaires1
 ```HTML
 
@@ -363,7 +363,7 @@ HTML
 ![alt text](images/6.PNG?raw=true "sortie de code")
 
 
-
+<a name="7"></a>
 ## 7. Formulaires2
 ```HTML
 ```
@@ -372,7 +372,7 @@ HTML
 ![alt text](images/7.PNG?raw=true "sortie de code")
 
 
-
+<a name="8"></a>
 ## 8. Structurer page Web
 ```HTML
 <!-- Structure page web
@@ -455,7 +455,7 @@ HTML
   ### Output
  
 ![alt text](images/8.PNG?raw=true "sortie de code")
-
+<a name="9"></a>
 ## 9. Image
 ```HTML
 
@@ -506,7 +506,7 @@ HTML
 ![alt text](images/9.PNG?raw=true "sortie de code")
 
 
-
+<a name="10"></a>
 ## 10. Audio Vidéo
 ```HTML
 <!-- l'udio vidéo
