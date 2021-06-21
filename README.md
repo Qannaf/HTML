@@ -1,4 +1,18 @@
 # HTML
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-1024px-HTML5_logo_and_wordmark.svg.png)
+
+### Table of Contents
+
+- [1. Formatage texte1](#what-is-latex)
+- [2. Formatage texte2](#why-use-latex)
+- [3. Formatage technique](#set-up-for-latex)
+- [4. Liste](#first-latex-file)
+- [5. Tableaux](#a-deeper-look)
+- [6. Formulaires1](#multilingual-usage)
+- [7. Formulaires1](#lists)
+- [8. Structurer page Web](#paragraph-and-section)
+- [9. Image](#making-a-table-of-contents)
+- [F10. Audio Védio](#footnotes)
 
 ## 1. formatage texte1
 ``` 
