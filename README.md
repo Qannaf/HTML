@@ -13,7 +13,8 @@
 - [6. Formulaires1](#6)
 - [7. Formulaires1](#7)
 - [8. Structurer page Web](#8)
-- [F10. Audio Védio](#9)
+- [9. Image](#9)
+- [10. Audio Védio](#9)
 <a name="1"></a>
 ## 1. formatage texte1
 ``` 
