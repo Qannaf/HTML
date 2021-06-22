@@ -1,6 +1,6 @@
 # HTML
 <p align="center">
-  <img width="350" height="197" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-1024px-HTML5_logo_and_wordmark.svg.png">
+  <img width="300" height="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-1024px-HTML5_logo_and_wordmark.svg.png">
 </p>
 ## Table des matières
 
